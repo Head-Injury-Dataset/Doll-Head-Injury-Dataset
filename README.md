@@ -1,1 +1,1 @@
-These folders only contain samples from each class. 
+These folders only contain samples from each class. The full dataset will be available online by 15/08/2024.
